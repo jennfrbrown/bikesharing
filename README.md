@@ -13,6 +13,9 @@ Visualizations shown in this analysis include:
 These visualizations will be used in a final presentation and analysis to pitch to investors.
 
 ## Results
+
+Below are snapshots of individual graphs, they can also be found by using the following link: [LINK GOES HERE](https://public.tableau.com/profile/jennifer.brown6942#!/vizhome/Module14_16030802925230/Story1?publish=yes)
+
 <img src="https://github.com/jennfrbrown/bikesharing/blob/main/Images/Basic%20Info.PNG">
 
 There were 2,344,224 rides taken on NY Citibikes in August 2019.  Of the 2,344,244 rides 25.1% were taken by females, 65.3% were taken by males, and 9.6% were taken by unknown.  
