@@ -21,7 +21,7 @@ In the basic information, a graph of peak hours by gender is also included.
 
 ### Check Out Times for Users
 <img src="https://github.com/jennfrbrown/bikesharing/blob/main/Images/Images/Check%20Out%20Time%20for%20Users.PNG">
-Trip duration peaks at 4 - 6 hours, but is mainly in the 2-3 hour range.
+From the graph we can see that the most frequent trip duration is between 3 hours to 9 hours, followed by longer trip duration of 9+ hours. 
 
 ### Check Out Time by Gender
 <img src="https://github.com/jennfrbrown/bikesharing/blob/main/Images/Check%20Out%20Times%20by%20Gender.PNG">
@@ -50,5 +50,6 @@ The illustration above shows the most common start and end locations.  If you co
 This tree chart shows  which bikes (based on bike ID) have been used for the most trips. This should help us plan ahead to determine which bikes will need repairs soonest.
 
 ## Summary
+If we are to base the Des Moines bike sharing company on the NY bike sharing data, then males should be our initial target demographic, as they have a higher bike utilization rate than females.  When placing bike locations, we should target universities, large office buildings, and popular tourist destinations.  Using those destinations as target locations, we should expect to see similiar peak hours during normal commuting times during the work week.  
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
