@@ -20,7 +20,20 @@ There were 2,344,224 rides taken on NY Citibikes in August 2019.  Of the 2,344,2
 In the basic information, a graph of peak hours by gender is also included.
 
 ### Check Out Times for Users
+<img src="https://github.com/jennfrbrown/bikesharing/blob/main/Images/Images/Check%20Out%20Time%20for%20Users.PNG">
+Trip duration peaks at 4 - 6 hours, but is mainly in the 2-3 hour range.
 
+### Check Out Time by Gender
+
+### Trips by Weekday per Hour
+
+### Trips by Gender (Weekday per Hour)
+
+### User Trips by Gender by Weekday
+
+### Top Starting Location
+
+### Top Ending Location
 
 ## Summary
 
