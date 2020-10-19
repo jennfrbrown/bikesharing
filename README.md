@@ -28,8 +28,13 @@ Trip duration peaks at 4 - 6 hours, but is mainly in the 2-3 hour range.
 This shows that users of Citibike are predominately males.
 
 ### Trips by Weekday per Hour
+<img src ="https://github.com/jennfrbrown/bikesharing/blob/main/Images/Trips%20by%20Weekday.PNG">
+This graph represents the number of trips/hour/weekday.  Hours are represented on the y-axis and day of the week is represented on the x-axis.  The color indicates the number of trips, the darker the color the greater the number of trips.  The busiest times are in the morning hours on weekedays from 6am until 9am and in the evening from 5pm to 7pm.  
+
+On the weekends, the busiest times are in the middle of the day.
 
 ### Trips by Gender (Weekday per Hour)
+
 
 ### User Trips by Gender by Weekday
 
