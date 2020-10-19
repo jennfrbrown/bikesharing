@@ -24,6 +24,8 @@ In the basic information, a graph of peak hours by gender is also included.
 Trip duration peaks at 4 - 6 hours, but is mainly in the 2-3 hour range.
 
 ### Check Out Time by Gender
+<img src="https://github.com/jennfrbrown/bikesharing/blob/main/Images/Check%20Out%20Times%20by%20Gender.PNG">
+This shows that users of Citibike are predominately males.
 
 ### Trips by Weekday per Hour
 
