@@ -14,7 +14,7 @@ These visualizations will be used in a final presentation and analysis to pitch 
 
 ## Results
 
-Below are snapshots of individual graphs, they can also be found by using the following link: [LINK GOES HERE](https://public.tableau.com/profile/jennifer.brown6942#!/vizhome/Module14_16030802925230/Story1?publish=yes)
+Below are snapshots of individual graphs, they can also be found by using the following link: [TABLEAU STORY](https://public.tableau.com/profile/jennifer.brown6942#!/vizhome/Module14_16030802925230/Story1?publish=yes)
 
 <img src="https://github.com/jennfrbrown/bikesharing/blob/main/Images/Basic%20Info.PNG">
 
