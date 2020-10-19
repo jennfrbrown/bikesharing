@@ -42,9 +42,7 @@ This graph illustrates the number of trips per hour/weekday by gender.  Similiar
 
 It is more likely that we will know a subscriber's gender than a customer's gender.  For the graph above, you see that overall male subscribers have the highest trip count.  There is also increased trip activity for both male and female subscribers on Monday, Tuesday, Thursday, and Friday.
 
-### Top Starting Location
-
-### Top Ending Location
+### Most Common Locations
 
 ## Summary
 
