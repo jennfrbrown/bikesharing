@@ -29,12 +29,13 @@ This shows that users of Citibike are predominately males.
 
 ### Trips by Weekday per Hour
 <img src ="https://github.com/jennfrbrown/bikesharing/blob/main/Images/Trips%20by%20Weekday.PNG">
-This graph represents the number of trips/hour/weekday.  Hours are represented on the y-axis and day of the week is represented on the x-axis.  The color indicates the number of trips, the darker the color the greater the number of trips.  The busiest times are in the morning hours on weekedays from 6am until 9am and in the evening from 5pm to 7pm.  
+This graph represents the number of trips/hour/weekday.  Hours are represented on the y-axis and day of the week is represented on the x-axis.  The color indicates the number of trips, the darker the color the greater the number of trips.  The busiest times are in the morning hours on weekdays from 6am until 9am and in the evening from 5pm to 7pm.  
 
 On the weekends, the busiest times are in the middle of the day.
 
 ### Trips by Gender (Weekday per Hour)
 
+This graph illustrates the number of trips per hour/weekday by gender.  Similiar to the previous graph, the most common time to take trips Monday - Friday are around 8am and between 5pm to 7pm.  Compared to the other days of the week, the unknown gender category has more rides on Saturdays and Sundays.
 
 ### User Trips by Gender by Weekday
 
