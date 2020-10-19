@@ -38,6 +38,9 @@ On the weekends, the busiest times are in the middle of the day.
 This graph illustrates the number of trips per hour/weekday by gender.  Similiar to the previous graph, the most common time to take trips Monday - Friday are around 8am and between 5pm to 7pm.  Compared to the other days of the week, the unknown gender category has more rides on Saturdays and Sundays.
 
 ### User Trips by Gender by Weekday
+<img src="https://github.com/jennfrbrown/bikesharing/blob/main/Images/User%20Trips%20by%20Gender%20by%20Weekday.PNG">
+
+It is more likely that we will know a subscriber's gender than a customer's gender.  For the graph above, you see that overall male subscribers have the highest trip count.  There is also increased trip activity for both male and female subscribers on Monday, Tuesday, Thursday, and Friday.
 
 ### Top Starting Location
 
