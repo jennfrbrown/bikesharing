@@ -52,4 +52,9 @@ This tree chart shows  which bikes (based on bike ID) have been used for the mos
 ## Summary
 If we are to base the Des Moines bike sharing company on the NY bike sharing data, then males should be our initial target demographic, as they have a higher bike utilization rate than females.  When placing bike locations, we should target universities, large office buildings, and popular tourist destinations.  Using those destinations as target locations, we should expect to see similiar peak hours during normal commuting times during the work week.  
 
-There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+### Additional visualizations:
+I suggest performing these two additonal visualisations for further analysis:
+
+1. Type of User vs Trip Duration. By looking at the relationship between user type and trip duration, we are able to get an idea if subscribers tend to have shorter or longer trips compared to customers.
+
+2. Weekday vs Trip Duration. With this analysis, we could see if the trend of the trip duration is similar on a particular day.
