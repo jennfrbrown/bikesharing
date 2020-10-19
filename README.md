@@ -39,10 +39,15 @@ This graph illustrates the number of trips per hour/weekday by gender.  Similiar
 
 ### User Trips by Gender by Weekday
 <img src="https://github.com/jennfrbrown/bikesharing/blob/main/Images/User%20Trips%20by%20Gender%20by%20Weekday.PNG">
-
 It is more likely that we will know a subscriber's gender than a customer's gender.  For the graph above, you see that overall male subscribers have the highest trip count.  There is also increased trip activity for both male and female subscribers on Monday, Tuesday, Thursday, and Friday.
 
 ### Most Common Locations
+<img src="https://github.com/jennfrbrown/bikesharing/blob/main/Images/Top%20Locations.png">
+The illustration above shows the most common start and end locations.  If you compare these locations they correspond to locations near large office buildings and universities.  This provides further context as to why the most common trip hours correspond with commute times.
+
+### Bike Repair
+
+This tree chart shows  which bikes (based on bike ID) have been used for the most trips. This should help us plan ahead to determine which bikes will need repairs soonest.
 
 ## Summary
 
