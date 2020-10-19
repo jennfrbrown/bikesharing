@@ -46,15 +46,9 @@ It is more likely that we will know a subscriber's gender than a customer's gend
 The illustration above shows the most common start and end locations.  If you compare these locations they correspond to locations near large office buildings and universities.  This provides further context as to why the most common trip hours correspond with commute times.
 
 ### Bike Repair
-
+<img src="https://github.com/jennfrbrown/bikesharing/blob/main/Images/Bike%20Repair.PNG">
 This tree chart shows  which bikes (based on bike ID) have been used for the most trips. This should help us plan ahead to determine which bikes will need repairs soonest.
 
 ## Summary
-
-
-
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-There is a description of the results for each visualization (7 pt)
-Summary:
 
 There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
